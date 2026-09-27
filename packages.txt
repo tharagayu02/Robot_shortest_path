@@ -2,7 +2,7 @@ r-base
 r-cran-ggplot2
 r-cran-dplyr
 r-cran-readr
-libgl1-mesa-glx
+libgl1
 libglib2.0-0
 libsm6
 libxext6
