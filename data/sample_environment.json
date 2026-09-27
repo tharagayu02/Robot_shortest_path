@@ -1,0 +1,185 @@
+{
+  "width": 24,
+  "height": 16,
+  "furniture": [
+    {
+      "name": "Wall Top",
+      "type": "wall",
+      "x": 0,
+      "y": 0,
+      "w": 24,
+      "h": 1
+    },
+    {
+      "name": "Wall Bottom",
+      "type": "wall",
+      "x": 0,
+      "y": 15,
+      "w": 24,
+      "h": 1
+    },
+    {
+      "name": "Wall Left",
+      "type": "wall",
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 16
+    },
+    {
+      "name": "Wall Right",
+      "type": "wall",
+      "x": 23,
+      "y": 0,
+      "w": 1,
+      "h": 16
+    },
+    {
+      "name": "Table Alpha",
+      "type": "table",
+      "x": 3,
+      "y": 3,
+      "w": 4,
+      "h": 2
+    },
+    {
+      "name": "Shelf Main",
+      "type": "shelf",
+      "x": 16,
+      "y": 2,
+      "w": 5,
+      "h": 2
+    },
+    {
+      "name": "Chair Desk",
+      "type": "chair",
+      "x": 4,
+      "y": 11,
+      "w": 3,
+      "h": 2
+    },
+    {
+      "name": "Office Desk",
+      "type": "desk",
+      "x": 15,
+      "y": 10,
+      "w": 5,
+      "h": 3
+    },
+    {
+      "name": "Storage Rack",
+      "type": "shelf",
+      "x": 10,
+      "y": 6,
+      "w": 2,
+      "h": 4
+    }
+  ],
+  "objects": [
+    {
+      "name": "Bottle",
+      "icon": "\ud83e\uddf4",
+      "x": 4,
+      "y": 4,
+      "confidence": 31.0
+    },
+    {
+      "name": "Book",
+      "icon": "\ud83d\udcd5",
+      "x": 5,
+      "y": 4,
+      "confidence": 88.7
+    },
+    {
+      "name": "Chair",
+      "icon": "\ud83e\ude91",
+      "x": 20,
+      "y": 9,
+      "confidence": 53.7
+    },
+    {
+      "name": "Laptop",
+      "icon": "\ud83d\udcbb",
+      "x": 17,
+      "y": 11,
+      "confidence": 96.0
+    },
+    {
+      "name": "Keys",
+      "icon": "\ud83d\udd11",
+      "x": 11,
+      "y": 8,
+      "confidence": 92.5
+    },
+    {
+      "name": "Person",
+      "icon": "\ud83d\udccd",
+      "x": 12,
+      "y": 5,
+      "confidence": 88.9
+    },
+    {
+      "name": "Tv",
+      "icon": "\ud83d\udccd",
+      "x": 17,
+      "y": 6,
+      "confidence": 83.2
+    },
+    {
+      "name": "Clock",
+      "icon": "\ud83d\udccd",
+      "x": 8,
+      "y": 3,
+      "confidence": 79.1
+    },
+    {
+      "name": "Dining table",
+      "icon": "\ud83d\udccd",
+      "x": 11,
+      "y": 10,
+      "confidence": 48.0
+    },
+    {
+      "name": "Vase",
+      "icon": "\ud83d\udccd",
+      "x": 17,
+      "y": 7,
+      "confidence": 27.7
+    },
+    {
+      "name": "Cup",
+      "icon": "\ud83d\udccd",
+      "x": 14,
+      "y": 10,
+      "confidence": 36.7
+    },
+    {
+      "name": "Couch",
+      "icon": "\ud83d\udccd",
+      "x": 9,
+      "y": 9,
+      "confidence": 50.5
+    },
+    {
+      "name": "Potted plant",
+      "icon": "\ud83d\udccd",
+      "x": 4,
+      "y": 10,
+      "confidence": 31.1
+    },
+    {
+      "name": "Bowl",
+      "icon": "\ud83d\udccd",
+      "x": 12,
+      "y": 10,
+      "confidence": 30.7
+    },
+    {
+      "name": "Bed",
+      "icon": "\ud83d\udccd",
+      "x": 11,
+      "y": 11,
+      "confidence": 70.2
+    }
+  ]
+}

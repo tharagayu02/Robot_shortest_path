@@ -1,0 +1,22 @@
+# Python & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Data & Output Logs
+*.db
+robot_memory.db
+.env
+
+# Model weights (optional exclusions)
+yolov8n.pt
+
+# OS files
+.DS_Store
+Thumbs.db

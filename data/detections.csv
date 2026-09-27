@@ -1,0 +1,6 @@
+id,timestamp,object_name,x,y,confidence,image_source
+13,2026-09-27 20:19:19,Bottle,18,3,94.2,sample_bottle.jpg
+14,2026-09-27 20:19:19,Book,5,4,88.7,sample_book.jpg
+15,2026-09-27 20:19:19,Chair,5,12,91.4,sample_chair.jpg
+16,2026-09-27 20:19:19,Laptop,17,11,96.0,sample_laptop.jpg
+17,2026-09-27 20:19:19,Keys,11,8,92.5,sample_keys.jpg
